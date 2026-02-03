@@ -1,0 +1,5 @@
+{
+  "name": "PhaseFlow: ODE Visualizer - General",
+  "description": "An interactive tool to visualize and solve 2D systems of linear ordinary differential equations. Define your matrix, explore direction fields, and click to trace trajectories.",
+  "requestFramePermissions": []
+}
