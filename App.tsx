@@ -161,7 +161,7 @@ const App: React.FC = () => {
 
             {activeModel === 'custom' && (
               <div className="space-y-4">
-                <p className="text-[11px] text-slate-400 font-medium mb-2 italic">Enter custom expressions using x and y.</p>
+                <p className="text-[11px] text-slate-400 font-medium mb-2 italic">Enter custom expressions using x and y. (Unstable) </p>
                 <div>
                   <label className="text-[10px] font-black text-slate-400 uppercase block mb-1">dx/dt</label>
                   <input 
