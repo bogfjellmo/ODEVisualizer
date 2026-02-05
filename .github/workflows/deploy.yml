@@ -33,7 +33,7 @@ jobs:
           publish_dir: ./dist
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./dist
